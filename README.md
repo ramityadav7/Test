@@ -1,0 +1,2 @@
+# MagicRecipe
+Simpragma solutions assignment
